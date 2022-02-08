@@ -1,0 +1,19 @@
+body{
+    background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0.02, #2e0d07), color-stop(0.8, #af6a27));
+}
+
+
+
+@font-face {
+    font-family: "CinzelDecorative-Bold";
+    src: url("Assets/tipografia/CinzelDecorative-Black/CinzelDecorative-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Dongle-Regular";
+    src: url("Assets/tipografia/Dongle/Dongle-Regular.ttf");
+}
+
+header{
+    font-family: "CinzelDecorative-Bold"
+}
